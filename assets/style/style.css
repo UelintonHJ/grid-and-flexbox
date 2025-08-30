@@ -330,6 +330,9 @@ img:hover {
 /* Footer */
 
 .rodape {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
     color: var(--cinza-claro);
     background-color: black;
     margin: 1rem 0;
@@ -350,7 +353,10 @@ img:hover {
 }
 
 .rodape__logo {
+    flex-basis: 100%;
     font-size: 12px;
+    text-align: center;
+    margin: 2%;
 }
 
 .rodape__logo h4 {
