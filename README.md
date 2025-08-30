@@ -4,7 +4,7 @@ Um site acadêmico com foco em conteúdo cultura - cinema, teatro, arte, fotogra
 
 ---
 
-![preview](/grid-and-flexbox/assets/GIF-Projeto-Grid-and-Flexbox.gif)
+![preview](assets/GIF-Projeto-Grid-and-Flexbox.gif)
 
 ---
 
