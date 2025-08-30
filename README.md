@@ -34,4 +34,4 @@ Ele foi construído como exercício prático para aplicar conceitos de **CSS Gri
 
 ## Licença
 
-Projeto desenvolvido durante os estudos na [Alura](https://www.alura.com.br/)
+Projeto desenvolvido durante os estudos na [Alura](https://www.alura.com.br/).
