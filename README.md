@@ -1,4 +1,4 @@
-# 🎭 [Culturama](grid-and-flexbox.vercel.app/)
+# 🎭 [Culturama](https://grid-and-flexbox.vercel.app/))
 
 Um site acadêmico com foco em conteúdo cultura - cinema, teatro, arte, fotografia, festivais e muito mais.
 
