@@ -32,6 +32,20 @@ Ele foi construído como exercício prático para aplicar conceitos de **CSS Gri
 
 ---
 
+## 💻 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/UelintonHJ/grid-and-flexbox
+
+# Entre na pasta
+cd culturama
+
+# Abra o arquivo index.html no navegador
+```
+
+---
+
 ## Licença
 
 Projeto desenvolvido durante os estudos na [Alura](https://www.alura.com.br/).
